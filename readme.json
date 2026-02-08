@@ -91,7 +91,7 @@
             "last_commit": "2026-02-05T02:01:12Z",
             "owner": "mitsuhiko",
             "repo": "insta",
-            "stars": 2737
+            "stars": 2739
           }
         },
         {
@@ -114,7 +114,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2025-12-21T13:24:18Z",
+            "last_commit": "2026-02-07T15:06:44Z",
             "owner": "callum-oakley",
             "repo": "json5-rs",
             "stars": 223
@@ -223,10 +223,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-02-07T04:34:49Z",
+            "last_commit": "2026-02-07T15:03:48Z",
             "owner": "timberio",
             "repo": "vector",
-            "stars": 21287
+            "stars": 21288
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-02-03T19:37:35Z",
             "owner": "pest-parser",
             "repo": "pest-ide-tools",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -429,10 +429,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:21:45.577Z",
+    "last_updated": "2026-02-08T04:32:34.355Z",
     "original_repository": "pest-parser/awesome-pest",
     "source_repository": "v1nvn/enhansome-pest",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Pest. The Elegant Parser with stars"
   }
 }
