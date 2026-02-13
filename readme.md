@@ -27,20 +27,20 @@ Contributions welcome! Read the [contribution guidelines](origin/contributing.md
 
 Here are some example projects using pest:
 
-* [Vector](https://github.com/timberio/vector) ⭐ 21,315 | 🐛 2,262 | 🌐 Rust | 📅 2026-02-12 - A high-performance observability data pipeline.
+* [Vector](https://github.com/timberio/vector) ⭐ 21,321 | 🐛 2,270 | 🌐 Rust | 📅 2026-02-12 - A high-performance observability data pipeline.
 * [pest\_meta](https://github.com/pest-parser/pest/blob/master/meta/src/grammar.pest) ⭐ 5,281 | 🐛 68 | 🌐 Rust | 📅 2026-02-05 - The pest itself is bootstrapped using pest.
 * [Melody](https://github.com/yoav-lavi/melody) ⭐ 4,745 | 🐛 8 | 🌐 Rust | 📅 2024-11-24 - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
 * [tera](https://github.com/Keats/tera) ⭐ 4,119 | 🐛 192 | 🌐 Rust | 📅 2025-12-11 - A template engine for Rust based on Jinja2/Django.
-* [insta](https://github.com/mitsuhiko/insta) ⭐ 2,746 | 🐛 71 | 🌐 Rust | 📅 2026-02-05 - A snapshot testing library for rust.
+* [insta](https://github.com/mitsuhiko/insta) ⭐ 2,760 | 🐛 71 | 🌐 Rust | 📅 2026-02-05 - A snapshot testing library for rust.
 * [ZoKrates](https://github.com/ZoKrates/ZoKrates) ⭐ 1,881 | 🐛 109 | 🌐 Rust | 📅 2024-08-01 - A toolbox for zkSNARKs on Ethereum.
 * [jql](https://github.com/yamafaktory/jql) ⭐ 1,653 | 🐛 3 | 🌐 Rust | 📅 2026-02-03 - A JSON Query Language CLI tool.
-* [AutoCorrect](https://github.com/huacnlee/autocorrect) ⭐ 1,542 | 🐛 6 | 🌐 Rust | 📅 2026-02-05 - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
+* [AutoCorrect](https://github.com/huacnlee/autocorrect) ⭐ 1,544 | 🐛 6 | 🌐 Rust | 📅 2026-02-05 - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 * [handlebars-rust](https://github.com/sunng87/handlebars-rust) ⭐ 1,451 | 🐛 41 | 🌐 Rust | 📅 2026-02-06 - Rust templating with Handlebars.
 * [cicada](https://github.com/mitnk/cicada) ⭐ 1,002 | 🐛 1 | 🌐 Rust | 📅 2026-02-05 - An old-school bash-like Unix shell written in Rust.
 * [rs\_pbrt](https://github.com/wahn/rs_pbrt) ⭐ 834 | 🐛 3 | 🌐 Rust | 📅 2024-01-29 - Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
-* [TypeQL Rust](https://github.com/typedb/typeql/tree/master/rust) ⭐ 242 | 🐛 42 | 🌐 Rust | 📅 2026-02-10 - TypeDB's query language, written in Pest
-* [json5-rs](https://github.com/callum-oakley/json5-rs) ⭐ 224 | 🐛 4 | 🌐 Rust | 📅 2026-02-07 - A Rust JSON5 serializer and deserializer which speaks Serde.
-* [Keadex Mina](https://github.com/keadex/keadex) ⭐ 194 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-12 - Open Source, serverless IDE to code with C4-PlantUML and organize at a scale C4 model diagrams.
+* [TypeQL Rust](https://github.com/typedb/typeql/tree/master/rust) ⭐ 243 | 🐛 42 | 🌐 Rust | 📅 2026-02-10 - TypeDB's query language, written in Pest
+* [json5-rs](https://github.com/callum-oakley/json5-rs) ⭐ 225 | 🐛 4 | 🌐 Rust | 📅 2026-02-07 - A Rust JSON5 serializer and deserializer which speaks Serde.
+* [Keadex Mina](https://github.com/keadex/keadex) ⭐ 194 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-13 - Open Source, serverless IDE to code with C4-PlantUML and organize at a scale C4 model diagrams.
 * [qubit](https://github.com/abhimanyu003/qubit) ⭐ 95 | 🐛 1 | 🌐 Rust | 📅 2022-01-17 - A handy calculator, based on Rust and WebAssembly.
 * [elastic-rs](https://github.com/cch123/elastic-rs) ⭐ 52 | 🐛 1 | 🌐 Rust | 📅 2023-07-21 - Convert bool expressions to Elasticsearch DSL in Rust.
 * [hexdino](https://github.com/Luz/hexdino) ⭐ 34 | 🐛 1 | 🌐 Rust | 📅 2025-12-21 - A hex editor with vim like keybindings written in Rust.
@@ -51,7 +51,7 @@ Here are some example projects using pest:
 * [rouler](https://github.com/jarcane/rouler) ⭐ 18 | 🐛 5 | 🌐 Rust | 📅 2022-01-27 - An easy to use dice rolling library for Rust.
 * [AshPaper](https://github.com/shnewto/ashpaper) ⭐ 15 | 🐛 11 | 🌐 Rust | 📅 2023-03-20 - Rust Inpterpreter for Esopo language AshPaper conceived by William Hicks.
 * [yaml-peg](https://github.com/aofdev/yaml-peg) ⭐ 10 | 🐛 1 | 🌐 Rust | 📅 2021-08-30 - PEG parser for YAML written in Rust.
-* [PTA-Parser](https://github.com/AltaModaTech/pta-parser/) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-06-10 - A Plain Text Accounting parser built in Rust for [Beancount](https://github.com/beancount/beancount) ⭐ 5,260 | 🐛 226 | 🌐 Python | 📅 2026-01-30, [Ledger](https://github.com/ledger/ledger) ⭐ 5,840 | 🐛 722 | 🌐 C++ | 📅 2026-02-11, and other PTA formats.
+* [PTA-Parser](https://github.com/AltaModaTech/pta-parser/) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-06-10 - A Plain Text Accounting parser built in Rust for [Beancount](https://github.com/beancount/beancount) ⭐ 5,261 | 🐛 226 | 🌐 Python | 📅 2026-01-30, [Ledger](https://github.com/ledger/ledger) ⭐ 5,841 | 🐛 724 | 🌐 C++ | 📅 2026-02-12, and other PTA formats.
 * [Liquid Grammar](https://github.com/rust-utilities/liquid-grammar-pest/) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2024-06-24 - Generate `Pairs` and/or `Rules` for [Shopify](https://shopify.github.io/liquid/) Liquid (hash-tags *not-sponsored* or *affiliated*) for use in consuming crates
 * [RuSh](https://github.com/lwandrebeck/RuSh) - RuSh aims to be a bash compatible shell with candies, written in Rust.
 * [ws2markdown](https://code.rosaelefanten.org/ws2markdown) - Converts WordStar documents into Markdown files.
