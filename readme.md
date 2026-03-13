@@ -27,16 +27,16 @@ Contributions welcome! Read the [contribution guidelines](origin/contributing.md
 
 Here are some example projects using pest:
 
-* [Vector](https://github.com/timberio/vector) ⭐ 21,466 | 🐛 2,338 | 🌐 Rust | 📅 2026-03-11 - A high-performance observability data pipeline.
+* [Vector](https://github.com/timberio/vector) ⭐ 21,467 | 🐛 2,339 | 🌐 Rust | 📅 2026-03-12 - A high-performance observability data pipeline.
 * [pest\_meta](https://github.com/pest-parser/pest/blob/master/meta/src/grammar.pest) ⭐ 5,307 | 🐛 68 | 🌐 Rust | 📅 2026-02-05 - The pest itself is bootstrapped using pest.
 * [Melody](https://github.com/yoav-lavi/melody) ⭐ 4,744 | 🐛 8 | 🌐 Rust | 📅 2024-11-24 - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
 * [tera](https://github.com/Keats/tera) ⭐ 4,151 | 🐛 192 | 🌐 Rust | 📅 2025-12-11 - A template engine for Rust based on Jinja2/Django.
 * [insta](https://github.com/mitsuhiko/insta) ⭐ 2,794 | 🐛 70 | 🌐 Rust | 📅 2026-03-10 - A snapshot testing library for rust.
-* [ZoKrates](https://github.com/ZoKrates/ZoKrates) ⭐ 1,882 | 🐛 110 | 🌐 Rust | 📅 2024-08-01 - A toolbox for zkSNARKs on Ethereum.
+* [ZoKrates](https://github.com/ZoKrates/ZoKrates) ⭐ 1,881 | 🐛 110 | 🌐 Rust | 📅 2024-08-01 - A toolbox for zkSNARKs on Ethereum.
 * [jql](https://github.com/yamafaktory/jql) ⭐ 1,657 | 🐛 3 | 🌐 Rust | 📅 2026-02-03 - A JSON Query Language CLI tool.
-* [AutoCorrect](https://github.com/huacnlee/autocorrect) ⭐ 1,562 | 🐛 7 | 🌐 Rust | 📅 2026-03-11 - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
+* [AutoCorrect](https://github.com/huacnlee/autocorrect) ⭐ 1,561 | 🐛 7 | 🌐 Rust | 📅 2026-03-11 - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 * [handlebars-rust](https://github.com/sunng87/handlebars-rust) ⭐ 1,457 | 🐛 41 | 🌐 Rust | 📅 2026-03-07 - Rust templating with Handlebars.
-* [cicada](https://github.com/mitnk/cicada) ⭐ 1,004 | 🐛 0 | 🌐 Rust | 📅 2026-02-17 - An old-school bash-like Unix shell written in Rust.
+* [cicada](https://github.com/mitnk/cicada) ⭐ 1,005 | 🐛 0 | 🌐 Rust | 📅 2026-02-17 - An old-school bash-like Unix shell written in Rust.
 * [rs\_pbrt](https://github.com/wahn/rs_pbrt) ⭐ 834 | 🐛 3 | 🌐 Rust | 📅 2024-01-29 - Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
 * [TypeQL Rust](https://github.com/typedb/typeql/tree/master/rust) ⭐ 246 | 🐛 44 | 🌐 Rust | 📅 2026-03-09 - TypeDB's query language, written in Pest
 * [json5-rs](https://github.com/callum-oakley/json5-rs) ⭐ 226 | 🐛 4 | 🌐 Rust | 📅 2026-02-07 - A Rust JSON5 serializer and deserializer which speaks Serde.
@@ -51,7 +51,7 @@ Here are some example projects using pest:
 * [rouler](https://github.com/jarcane/rouler) ⭐ 18 | 🐛 5 | 🌐 Rust | 📅 2022-01-27 - An easy to use dice rolling library for Rust.
 * [AshPaper](https://github.com/shnewto/ashpaper) ⭐ 15 | 🐛 11 | 🌐 Rust | 📅 2023-03-20 - Rust Inpterpreter for Esopo language AshPaper conceived by William Hicks.
 * [yaml-peg](https://github.com/aofdev/yaml-peg) ⭐ 10 | 🐛 0 | 🌐 Rust | 📅 2021-08-30 - PEG parser for YAML written in Rust.
-* [PTA-Parser](https://github.com/AltaModaTech/pta-parser/) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-06-10 - A Plain Text Accounting parser built in Rust for [Beancount](https://github.com/beancount/beancount) ⭐ 5,366 | 🐛 228 | 🌐 Python | 📅 2026-01-30, [Ledger](https://github.com/ledger/ledger) ⭐ 5,872 | 🐛 333 | 🌐 C++ | 📅 2026-03-10, and other PTA formats.
+* [PTA-Parser](https://github.com/AltaModaTech/pta-parser/) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-06-10 - A Plain Text Accounting parser built in Rust for [Beancount](https://github.com/beancount/beancount) ⭐ 5,367 | 🐛 228 | 🌐 Python | 📅 2026-01-30, [Ledger](https://github.com/ledger/ledger) ⭐ 5,874 | 🐛 334 | 🌐 C++ | 📅 2026-03-10, and other PTA formats.
 * [Liquid Grammar](https://github.com/rust-utilities/liquid-grammar-pest/) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2024-06-24 - Generate `Pairs` and/or `Rules` for [Shopify](https://shopify.github.io/liquid/) Liquid (hash-tags *not-sponsored* or *affiliated*) for use in consuming crates
 * [RuSh](https://github.com/lwandrebeck/RuSh) - RuSh aims to be a bash compatible shell with candies, written in Rust.
 * [ws2markdown](https://code.rosaelefanten.org/ws2markdown) - Converts WordStar documents into Markdown files.
