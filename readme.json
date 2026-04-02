@@ -13,7 +13,7 @@
             "last_commit": "2026-03-18T00:11:26Z",
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5317
+            "stars": 5320
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2026-03-30T20:53:47Z",
             "owner": "mitsuhiko",
             "repo": "insta",
-            "stars": 2812
+            "stars": 2811
           }
         },
         {
@@ -223,10 +223,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-04-01T04:30:25Z",
+            "last_commit": "2026-04-01T23:26:14Z",
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 21571
+            "stars": 21579
           }
         },
         {
@@ -345,7 +345,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-26T18:43:39Z",
+            "last_commit": "2026-04-01T14:04:47Z",
             "owner": "typedb",
             "repo": "typeql",
             "stars": 250
@@ -429,7 +429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:46:50.361Z",
+    "last_updated": "2026-04-02T04:29:21.503Z",
     "original_repository": "pest-parser/awesome-pest",
     "source_repository": "v1nvn/enhansome-pest",
     "source_repository_description": null,
