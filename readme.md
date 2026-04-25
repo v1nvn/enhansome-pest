@@ -1,6 +1,6 @@
 # Awesome Pest. The Elegant Parser [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) with stars
 
-[<img src="https://avatars.githubusercontent.com/u/26044607" align="right" width="100">](https://github.com/pest-parser/pest/) ⭐ 5,331 | 🐛 70 | 🌐 Rust | 📅 2026-04-19
+[<img src="https://avatars.githubusercontent.com/u/26044607" align="right" width="100">](https://github.com/pest-parser/pest/) ⭐ 5,332 | 🐛 71 | 🌐 Rust | 📅 2026-04-19
 
 > A curated list of resources, projects, and tools using or for the pest parser generator in Rust
 
@@ -21,17 +21,17 @@ Contributions welcome! Read the [contribution guidelines](origin/contributing.md
 * [fiddle editor on pest.rs](https://pest.rs/#editor) - Play with grammars and share them on the official website (and format them!).
 * [Gitter](https://gitter.im/pest-parser/pest)
 * [Discord](https://discord.gg/XEGACtWpT2)
-* [GitHub Discussions](https://github.com/pest-parser/pest/discussions) ⭐ 5,331 | 🐛 70 | 🌐 Rust | 📅 2026-04-19
+* [GitHub Discussions](https://github.com/pest-parser/pest/discussions) ⭐ 5,332 | 🐛 71 | 🌐 Rust | 📅 2026-04-19
 
 ## Projects
 
 Here are some example projects using pest:
 
-* [Vector](https://github.com/timberio/vector) ⭐ 21,710 | 🐛 2,403 | 🌐 Rust | 📅 2026-04-24 - A high-performance observability data pipeline.
-* [pest\_meta](https://github.com/pest-parser/pest/blob/master/meta/src/grammar.pest) ⭐ 5,331 | 🐛 70 | 🌐 Rust | 📅 2026-04-19 - The pest itself is bootstrapped using pest.
-* [Melody](https://github.com/yoav-lavi/melody) ⭐ 4,748 | 🐛 8 | 🌐 Rust | 📅 2024-11-24 - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
+* [Vector](https://github.com/timberio/vector) ⭐ 21,712 | 🐛 2,405 | 🌐 Rust | 📅 2026-04-25 - A high-performance observability data pipeline.
+* [pest\_meta](https://github.com/pest-parser/pest/blob/master/meta/src/grammar.pest) ⭐ 5,332 | 🐛 71 | 🌐 Rust | 📅 2026-04-19 - The pest itself is bootstrapped using pest.
+* [Melody](https://github.com/yoav-lavi/melody) ⭐ 4,747 | 🐛 8 | 🌐 Rust | 📅 2024-11-24 - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
 * [tera](https://github.com/Keats/tera) ⭐ 4,189 | 🐛 193 | 🌐 Rust | 📅 2026-04-03 - A template engine for Rust based on Jinja2/Django.
-* [insta](https://github.com/mitsuhiko/insta) ⭐ 2,829 | 🐛 74 | 🌐 Rust | 📅 2026-03-30 - A snapshot testing library for rust.
+* [insta](https://github.com/mitsuhiko/insta) ⭐ 2,832 | 🐛 75 | 🌐 Rust | 📅 2026-03-30 - A snapshot testing library for rust.
 * [ZoKrates](https://github.com/ZoKrates/ZoKrates) ⭐ 1,880 | 🐛 110 | 🌐 Rust | 📅 2024-08-01 - A toolbox for zkSNARKs on Ethereum.
 * [jql](https://github.com/yamafaktory/jql) ⭐ 1,671 | 🐛 2 | 🌐 Rust | 📅 2026-03-18 - A JSON Query Language CLI tool.
 * [AutoCorrect](https://github.com/huacnlee/autocorrect) ⭐ 1,581 | 🐛 10 | 🌐 Rust | 📅 2026-04-14 - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
@@ -51,7 +51,7 @@ Here are some example projects using pest:
 * [rouler](https://github.com/jarcane/rouler) ⭐ 18 | 🐛 5 | 🌐 Rust | 📅 2022-01-27 - An easy to use dice rolling library for Rust.
 * [AshPaper](https://github.com/shnewto/ashpaper) ⭐ 15 | 🐛 11 | 🌐 Rust | 📅 2023-03-20 - Rust Inpterpreter for Esopo language AshPaper conceived by William Hicks.
 * [yaml-peg](https://github.com/aofdev/yaml-peg) ⭐ 10 | 🐛 0 | 🌐 Rust | 📅 2021-08-30 - PEG parser for YAML written in Rust.
-* [PTA-Parser](https://github.com/AltaModaTech/pta-parser/) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-06-10 - A Plain Text Accounting parser built in Rust for [Beancount](https://github.com/beancount/beancount) ⭐ 5,494 | 🐛 232 | 🌐 Python | 📅 2026-04-18, [Ledger](https://github.com/ledger/ledger) ⭐ 5,913 | 🐛 37 | 🌐 C++ | 📅 2026-04-24, and other PTA formats.
+* [PTA-Parser](https://github.com/AltaModaTech/pta-parser/) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-06-10 - A Plain Text Accounting parser built in Rust for [Beancount](https://github.com/beancount/beancount) ⭐ 5,497 | 🐛 232 | 🌐 Python | 📅 2026-04-18, [Ledger](https://github.com/ledger/ledger) ⭐ 5,914 | 🐛 47 | 🌐 C++ | 📅 2026-04-25, and other PTA formats.
 * [Liquid Grammar](https://github.com/rust-utilities/liquid-grammar-pest/) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2024-06-24 - Generate `Pairs` and/or `Rules` for [Shopify](https://shopify.github.io/liquid/) Liquid (hash-tags *not-sponsored* or *affiliated*) for use in consuming crates
 * [RuSh](https://github.com/lwandrebeck/RuSh) - RuSh aims to be a bash compatible shell with candies, written in Rust.
 * [ws2markdown](https://code.rosaelefanten.org/ws2markdown) - Converts WordStar documents into Markdown files.
